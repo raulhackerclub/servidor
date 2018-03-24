@@ -3,8 +3,8 @@ IaC da infra do Raul
 
 ### Dependência
 
-- [docker]()
-- [docker-compose]() 
+- [docker](https://docs.docker.com/install/linux/docker-ce/debian/#install-docker-ce-1)
+- [docker-compose](https://docs.docker.com/compose/install) 
 
 ### Como usar
 
